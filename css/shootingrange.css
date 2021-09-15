@@ -1,0 +1,40 @@
+html {
+    cursor: url('../img/cursors/gun_normal.cur'), auto;
+  }
+  
+  #board-black {
+    width: 280px;
+    height: 280px;
+    padding: 40px;
+    background-color: darkgrey;
+    border-radius: 50%;
+    border: 2px solid black;
+  
+  }
+  
+  #board-blue {
+    width: 200px;
+    height: 200px;
+    padding : 40px;
+    background-color : rgb(134, 211, 236);
+    border-radius: 50%;
+    border : 2px solid black;
+  }
+  
+  #board-red {
+    width: 120px;
+    height: 120px;
+    padding : 40px;
+    background-color: rgb(233, 94, 94);
+    border-radius: 50%;
+    border : 2px solid black;
+  }
+  
+  #board-yellow {
+    width: 40px;
+    height: 40px;
+    padding: 40px;
+    background-color: rgba(255, 238, 0, 0.883);
+    border-radius: 50%;
+    border : 2px solid black;
+  }

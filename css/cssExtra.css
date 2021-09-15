@@ -1,0 +1,26 @@
+#head {
+  width: 200px;
+  height: 200px;
+  padding: 40px;
+  background-color: #FFFF99;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+#sub {
+  width: 120px;
+  height: 120px;
+  padding: 40px;
+  background-color: #CCFFCC;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+#sub-sub {
+  width: 40px;
+  height: 40px;
+  padding: 40px;
+  background-color: brown;
+  border-radius: 50%;
+  border: 2px solid black;
+}
